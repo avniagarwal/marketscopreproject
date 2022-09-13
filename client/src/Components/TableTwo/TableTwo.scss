@@ -1,0 +1,29 @@
+.table-group{
+    display: flex;
+    
+    .table {
+        display: flex;
+
+        .cellWrapper {
+        display: flex;
+        align-items: center;
+        }
+
+        .table-header {
+            text-align: center;
+            font-weight: 600;
+            font-size: 1.2rem;
+            background-color: #f2f2f2;
+        }
+
+        .tableCell{
+            padding: 10px;
+            font-size: 1.2rem;
+        }
+
+        .vl {
+            border-left: 1px solid gray;
+            height: 35px;
+        }
+    }
+}

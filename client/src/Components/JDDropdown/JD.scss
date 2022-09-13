@@ -1,0 +1,38 @@
+.read-or-hide{
+    color: rgb(49, 29, 230);
+    cursor: pointer;
+  }
+.jd-tab{
+    .jdcontainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .jd-select{
+        padding: 10px 20px;
+        border-radius: 10px;
+        background-color: #d5ccf5;
+    }
+    }
+
+    .table{
+        padding: 10px;
+    -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+    box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+    border-radius: 10px;
+    
+    .jd-table{
+        padding: 5px;
+        font-size: 12px;
+        font-size: 1.1rem;
+        border: 0.5px solid gray;
+        text-align: center;
+    }
+
+    .table-header {
+        text-align: center;
+        font-weight: 600;
+        background-color: #f2f2f2;
+    }
+    
+    }
+}

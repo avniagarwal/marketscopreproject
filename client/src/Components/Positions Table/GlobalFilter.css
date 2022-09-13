@@ -1,0 +1,16 @@
+.sr{
+    width: 7rem;
+    height: 24px;
+}
+.bttnsG{
+    padding: 2px;
+    border-radius: 9px;
+    color: white;
+    background-color: rgb(63, 63, 118);
+    width: 3rem;
+    height: 2rem;
+    font-weight: bold;
+    margin-top: -3px;
+    /* margin-left: 3rem; */
+    border: 2px solid white;
+}

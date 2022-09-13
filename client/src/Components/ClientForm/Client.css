@@ -1,0 +1,436 @@
+.Forms{
+    margin-top: 1rem;
+ } 
+ 
+ .EntryFormC1{
+     margin-left: 10px;
+     width: 36rem;
+ }
+ .EntryForm{
+     margin-top: 10px;
+     /* display: flex; */
+    
+    
+ }
+ 
+ .EntryFormC2{
+    margin-left: 3rem;
+    margin-top: 0px;
+    width: 36rem;
+  } 
+
+  .EntryFormC2 >input{
+    margin-left: 10px;
+  }
+ 
+  .frm1{
+     display: block;
+     margin-top: 12px;
+     font-size: 26px;
+ }
+ 
+ .Forms{
+     display: flex;
+ }
+ 
+ #sk{
+     display: grid;
+ }
+ 
+ #expC{
+     display: flex;
+     margin-bottom: -5px;
+  }
+  .country{
+     width: 150px;
+     height: 2rem;
+     /* font-size:10px; */
+     padding: 1px;
+ 
+     /* background-color: #a0a3a4; */
+     /* margin: 10px; */
+ } 
+ 
+ .css-b62m3t-container {
+     position: relative;
+     box-sizing: border-box;
+     font-size:15px;
+     height: 4px;
+     padding: 2px;
+     width: 2rem 12rem;
+     border-color: #a0a3a4;
+     height: -webkit-fill-available;
+ }
+ 
+ .frm1 >label{
+     color:rgb(4, 4, 118);
+     font-weight: bold;
+     font-family: 'Nunito', sans-serif;
+    
+ }
+ 
+ .frm1 >select{
+     border: 2px solid #a0a3a4;
+     outline: none;
+     color: #1d2129;
+     border-radius: 4px;
+     float: right;
+     width: 16rem;
+    height: 41px;
+     font-size: 17px;
+     /* 28 */
+ }
+ 
+ .frm1 >input{
+     border: 2px solid #a0a3a4;
+     outline: none;
+     color: #1d2129;
+     border-radius: 4px;
+     float: right;
+     width: 16rem;
+     height: 41px;
+    
+ }
+ 
+ /* .expC
+ {
+     width: 5rem;
+     margin-left: 2px;
+     float: right;
+     
+ } */
+ 
+ #cntryC {
+    width: 16rem;
+    margin-left: 13.2em;
+}
+ #cntryC2{
+    width: 16rem;
+    margin-left: 15.1em;
+ }
+ #cntry3{
+     width: 7.5rem;
+     margin-left: 12.5em;
+ }
+ 
+ .exnotes{
+     height: 58px;
+     width:12rem;
+ }
+ 
+ .bttn{
+     padding: 4px;
+     border-radius: 12px;
+     color: white;
+     background-color: rgb(63, 63, 118);
+     margin: 10px;
+     margin-top: 7.5rem;
+     width: 8rem;
+     font-size: 22px;
+     font-weight: bold;
+ }
+ 
+ .bttn1{
+     padding: 4px;
+     border-radius: 12px;
+     color: white;
+     background-color: rgb(63, 63, 118);
+     margin: 10px;
+     margin-top: 26px;
+     width: 8rem;
+     font-size: 22px;
+     font-weight: bold;
+ }
+ 
+ .dp{
+     margin-top: 0px;
+     display: block;
+     margin-left: 12.5rem;
+ }
+ .dp >button{
+     margin-left: 35px;
+ }
+ 
+ .sn{
+     margin-top:10px;
+ }
+ 
+ #pf{
+     font-size: 18px;
+     padding: 8px;
+     width: 12rem;
+     background-color: #e87287e6;
+     border-color: white;
+     cursor: pointer;
+     /* margin-left: 20px; */
+ }
+ 
+ #dl{
+     /* margin-top: 10px; */
+     background-color: #ba1e1e;
+     border-color: white;
+     cursor: pointer;
+ }
+ 
+ #sv1 {
+    background-color: #0e9020;
+    border-color: white;
+    cursor: pointer;
+    width: 8rem;
+}
+ 
+ #nw{
+     background-color: #1313c2;
+     border-color: white;
+     cursor: pointer;
+ }
+ 
+ .fin
+ {
+     display: block;
+ }
+ 
+ /* #expC1{
+     margin-left: 58px
+ } */
+
+ 
+ #expC1{
+   width: 7.8rem;
+    float: right;
+    margin-left: 11.78rem;
+    font-size: 16px;
+ }
+ #expC2{
+    width: 8rem;
+    float: right;
+    font-size: 16px;
+ }
+ #salC1{
+   width: 7.9rem;
+   float: right;
+   margin-left: auto;
+   font-size: 16px;
+ }
+ #salC2{
+    width: 7.9rem;
+    float: right;
+    font-size: 16px;
+ }
+
+ .bttns{
+    padding: 4px;
+    border-radius: 12px;
+    width: 8rem;
+    font-size: 18px;
+    color: white;
+    background-color: rgb(14, 67, 121);
+    cursor: pointer;
+    margin-top: -2px;
+    border-color: white;
+    font-weight: bold;
+ }
+
+ #posC{
+    margin-left: 29px;
+ }
+
+ .ShowHide{
+    display: flex;
+
+ }
+
+ .EntryFormC3{
+    margin-left: 10px;
+ }
+
+ .EntryFormC4{
+    margin-left: 2.5rem;
+ }
+
+ #svng1{
+    background-color: #0e9020;
+    /* border-radius: 4px; */
+    margin-left: 1rem;
+    font-size: 28px;
+    width: 10rem;
+ }
+
+ #sr11{
+    margin-left: 54rem;
+    font-size: 28px;
+    width: 10rem;
+ }
+
+ #sh{
+    width: 15rem;
+    height: 35px;
+ }
+
+ #er1{
+    font-size: 22px;
+ } 
+
+ .tg{
+    margin-top: 5rem;
+ }
+
+ .cg{
+    margin-top:8.8rem
+
+ }
+
+ #en>input{
+    width: 24rem;
+    height: 15.5rem;
+ }
+ #en{
+    height: 2rem;
+ }
+/* 
+ .employee{
+    width: 50rem;
+    height: 20rem;
+    background-color: lightgray;
+    display: flex;
+    padding: 20px;
+ } */
+
+ .employee h3{
+    margin: 20px;
+ }
+
+ input{
+    font-size: 17px;
+ }
+
+ /* #sk{
+    display: flex;
+    
+ }
+
+ .css-1s2u09g-control{
+    width: 15.7rem;
+    float: right;
+    
+ }
+
+ .css-b62m3t-container{
+    margin-left: 2rem;
+ }
+
+ #sk1{
+    margin-right: 13.3rem;
+ } */
+
+ #gr>placeholder-shown
+ {
+   color: gray;
+ }
+
+ #curr{
+   font-size: 20px;
+   
+ }
+
+ #curr2{
+   float: right;
+ }
+
+ #curr{
+   font-size: 24px;
+   
+ }
+
+ #Cat{
+   font-size: 24px;
+   
+ }
+
+ #catin{
+   margin-left: 13.7rem;
+   border: white;
+    font-weight: bold;
+    font-size: 24px;
+ }
+
+ input.red-border{
+   border:1.5px solid red;
+   border-color: red;
+   /* background-color: red; */
+ }
+ select.red-border{
+   border:1.5px solid red;
+   border-color: red;
+   /* background-color: red; */
+ }
+ div.red-border.select{
+   border:1.5px solid red;
+   border-color: red;
+   /* background-color: red; */
+ }
+
+ .error{
+    font-size: 12px;
+    text-align: right;
+    color: red;
+    margin-left: 19rem;
+ }
+
+
+ #hhh{
+   display: flex;
+   flex-direction: column;
+ }
+
+ /* #hhh>input{
+   width: 7.9rem;
+   float: right;
+   font-size: 16px;
+   border-radius: 4px;
+   height: 41px;
+   border: 2px solid #a0a3a4;
+ } */
+
+ #cntryC {
+   width: 16rem;
+   margin-left: 13.2em;
+   border: 2px solid #a0a3a4;
+   outline: none;
+   color: #1d2129;
+   border-radius: 4px;
+   float: right;
+   width: 16rem;
+   height: 41px;
+   font-size: 17px;
+}
+ #cntryC2 {
+   width: 16rem;
+   margin-left: 15.1em;
+   border: 2px solid #a0a3a4;
+   outline: none;
+   color: #1d2129;
+   border-radius: 4px;
+   float: right;
+   width: 16rem;
+   height: 41px;
+   font-size: 17px;
+}
+
+
+#tc{
+   display: flex;
+}
+
+#tx{
+   border: 2px solid #a0a3a4;
+   border-radius: 4px;
+   float: right;
+   margin-left: auto;
+   width: 21rem;
+   height: 11.4rem;
+}
+
+textarea{
+   font-size: 17px;
+}

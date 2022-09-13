@@ -1,0 +1,26 @@
+.table {
+    .cellWrapper {
+      display: flex;
+      align-items: center;
+    }
+
+    
+    .table-header {
+      text-align: center;
+      font-weight: 600;
+      background-color: #8869f9;
+  }
+
+  .white-bg{
+    background-color: #fff;
+  }
+  .red-bg{
+    background-color:  rgb(231, 129, 129);
+  }
+
+  }
+
+  .table-disable{
+    background-color: #f2f2f2;
+    color: rgb(183, 183, 183);
+  }

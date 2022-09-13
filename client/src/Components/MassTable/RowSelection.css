@@ -1,0 +1,64 @@
+.men{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.frmRR{
+    display: block;
+    margin-left: 6rem;
+     font-size: 18px;
+}
+
+.frmRR >label{
+    color:rgb(4, 4, 118);
+    font-weight: bold;
+    font-family: 'Nunito', sans-serif;
+    font-size: 19px;
+   
+}
+
+.frmRR >select{
+    border: 2px solid #a0a3a4;
+    outline: none;
+    color: #1d2129;
+    border-radius: 4px;
+    float: right;
+    width: 11rem;
+    height: 29px;
+    font-size: 13px;
+    /* 28 */
+}
+
+.bttnscv{
+    padding: 2px;
+    border-radius: 8px;
+    color: white;
+    background-color: rgb(63, 63, 118);
+    width: 6rem;
+    height: 2.1rem;
+    font-weight: bold;
+    margin-top: -3px;
+    margin-left: 0rem;
+    border: 2px solid white;
+    font-size: 17px;
+}
+
+#rs{
+    width: 4rem;
+}
+
+#posM {
+    margin-left: 4px;
+}
+
+/* #srch>input{
+    width: 20px;
+} */
+/* #shq{
+    display: flex;
+    flex-direction: column;
+} */
+
+#srchMR>span>input{
+  width: 11rem;
+}

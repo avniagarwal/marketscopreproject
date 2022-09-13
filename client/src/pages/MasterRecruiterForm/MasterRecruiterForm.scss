@@ -1,0 +1,51 @@
+.mastForm{
+    padding: 10px;
+    -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+    box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    .form-option1{
+        margin-left: 50px;
+        
+        .margin-inner{
+            margin-left: 20px;
+            height: 25px;
+        }
+
+        .search-outlined-icon{
+        }
+
+        .filter{
+            color: grey;
+            background-color: white;
+            border: 0;
+            margin-bottom: 50px;
+
+            .ficon{
+                color: gray;
+                margin-bottom: -5px;
+                font-weight: 50;
+            }
+        }
+    }
+
+    .mastertable{
+        padding-top: 50px;
+        padding-left: 50px;
+        padding-bottom: 50px;
+
+        .table-row{
+            padding: 10px;
+            border: 1px solid gray;
+        }
+
+        .table-header {
+            text-align: center;
+            font-weight: 600;
+            background-color: white;
+        }
+    }
+
+
+}

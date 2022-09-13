@@ -1,0 +1,63 @@
+.men{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.frmR{
+    display: block;
+    margin-left: 4rem;
+     font-size: 18px;
+}
+
+.frmR >label{
+    color:rgb(4, 4, 118);
+    font-weight: bold;
+    font-family: 'Nunito', sans-serif;
+    font-size: 19px;
+   
+}
+
+.frmR >select{
+    border: 2px solid #a0a3a4;
+    outline: none;
+    color: #1d2129;
+    border-radius: 4px;
+    float: right;
+    width: 11rem;
+    height: 29px;
+    font-size: 13px;
+    /* 28 */
+}
+
+.bttnsc{
+    padding: 2px;
+    border-radius: 9px;
+    color: white;
+    background-color: rgb(63, 63, 118);
+    width: 8rem;
+    font-weight: bold;
+    margin-top: -3px;
+    margin-left: 5rem;
+    border: 2px solid white;
+    font-size: 19px;
+}
+
+#rs{
+    width: 4rem;
+}
+
+#posM {
+    margin-left: 4px;
+}
+
+/* #srch>input{
+    width: 20px;
+} */
+/* #shq{
+    display: flex;
+    flex-direction: column;
+} */
+
+#srchM>span>input{
+  width: 10rem;
+}

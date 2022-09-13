@@ -1,0 +1,28 @@
+.filterContainer{
+    padding-bottom: 100px;
+    
+
+    .f1{
+        margin-bottom: 20px;
+        font-size: large;
+
+        .f1-head{
+            font-size: small;
+            color: gray;
+        }
+
+        .filteroptions{
+            border-radius: 10px;
+            height: 20px;
+            color: gray;
+            margin: 10px;
+        }
+    }
+}
+
+.table-header{
+    font-size: 1.1rem;
+}
+.table-data{
+    font-size: 1.1rem;
+}

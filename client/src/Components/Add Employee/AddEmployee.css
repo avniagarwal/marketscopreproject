@@ -1,0 +1,316 @@
+.Forms{
+    margin-top: 1rem;
+ } 
+ 
+ .EntryFormC123{
+     margin-left: 10px;
+     width: 74rem;
+ }
+ .EntryForm{
+     margin-top: 10px;
+     /* display: flex; */
+    
+    
+ }
+ 
+ .EntryForm2{
+    margin-left: 2.5rem;
+    width: 36rem;
+  } 
+
+  .EntryForm2 >input{
+    margin-left: 10px;
+  }
+ 
+  .frm123{
+    display: block;
+    margin-top: 12px;
+    font-size: 30px;
+ }
+ 
+ .Forms{
+     display: flex;
+ }
+ 
+ #sk{
+     display: grid;
+ }
+ 
+ #exp{
+     display: flex;
+     margin-bottom: -5px;
+  }
+  .country{
+     width: 150px;
+     height: 2rem;
+     /* font-size:10px; */
+     padding: 1px;
+ 
+     /* background-color: #a0a3a4; */
+     /* margin: 10px; */
+ } 
+ 
+ .css-b62m3t-container {
+     position: relative;
+     box-sizing: border-box;
+     font-size:15px;
+     height: 4px;
+     padding: 2px;
+     width: 2rem 12rem;
+     border-color: #a0a3a4;
+     height: -webkit-fill-available;
+ }
+ 
+ .frm123 >label{
+     color:rgb(4, 4, 118);
+     font-weight: bold;
+     font-family: 'Nunito', sans-serif;
+    
+ }
+ 
+ .frm123 >select{
+    border: 2px solid #a0a3a4;
+    outline: none;
+    color: #1d2129;
+    border-radius: 4px;
+    float: right;
+    width: 16rem;
+   height: 41px;
+    font-size: 17px;
+     /* 28 */
+ }
+ 
+ .frm123 >input{
+    border: 2px solid #a0a3a4;
+    outline: none;
+    color: #1d2129;
+    border-radius: 4px;
+    float: right;
+    width: 50rem;
+    height: 45px;
+    
+ }
+ 
+ .exp
+ {
+     width: 5rem;
+     margin-left: 2px;
+     float: right;
+     
+ }
+ 
+ #cntry {
+    width: 16rem;
+    margin-left: 13em;
+}
+ #cntry2{
+    width: 16rem;
+    margin-left: 15.1em;
+ }
+ #cntry3{
+    width: 7.5rem;
+     margin-left: 12.5em;
+ }
+ 
+ .exnotes{
+     height: 58px;
+     width:12rem;
+ }
+ 
+ .bttn{
+     padding: 4px;
+     border-radius: 12px;
+     color: white;
+     background-color: rgb(63, 63, 118);
+     margin: 10px;
+     margin-top: 7.5rem;
+     width: 8rem;
+     font-size: 22px;
+     font-weight: bold;
+ }
+ 
+ .bttn1{
+     padding: 4px;
+     border-radius: 12px;
+     color: white;
+     background-color: rgb(63, 63, 118);
+     margin: 10px;
+     margin-top: 26px;
+     width: 8rem;
+     font-size: 22px;
+     font-weight: bold;
+ }
+ 
+ .dpE{
+     margin-top: 23px;
+     display: block;
+     margin-left: 28rem;
+ }
+ .dp >button{
+     margin-left: 35px;
+ }
+ 
+ .sn{
+     margin-top:10px;
+ }
+ 
+ #pf{
+     font-size: 18px;
+     padding: 8px;
+     width: 12rem;
+     background-color: #e87287e6;
+     border-color: white;
+     cursor: pointer;
+     /* margin-left: 20px; */
+ }
+ 
+ #dl{
+     /* margin-top: 10px; */
+     background-color: #ba1e1e;
+     border-color: white;
+     cursor: pointer;
+ }
+ 
+ #sv {
+    background-color: #0e9020;
+    border-color: white;
+    cursor: pointer;
+    width: 7rem;
+    font-size: 14px;
+}
+ 
+ #nw{
+     background-color: #1313c2;
+     border-color: white;
+     cursor: pointer;
+     width: 7rem;
+     font-size: 14px;
+ }
+ 
+ .fin
+ {
+     display: block;
+ }
+ 
+ /* #exp1{
+     margin-left: 58px
+ } */
+
+ 
+ #exp1{
+    width: 8rem;
+    float: right;
+    margin-left: auto;
+    font-size: 16px;
+ }
+ #exp2{
+    width: 8rem;
+    float: right;
+    font-size: 16px;
+ }
+ #sal1{
+    width: 8rem;
+    float: right;
+    margin-left: auto;
+    font-size: 16px;
+ }
+ #sal2{
+    width: 8rem;
+    float: right;
+    font-size: 16px;
+ }
+
+ .bttnsE{
+    padding: 4px;
+    border-radius: 12px;
+    width: 10rem;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(14, 67, 121);
+    cursor: pointer;
+    margin-top: -2px;
+    border-color: white;
+ }
+
+ #pos{
+    margin-left: 29px;
+ }
+
+ .ShowHide{
+    display: flex;
+
+ }
+
+ .EntryForm3{
+    margin-left: 10px;
+    width: 36rem;
+ }
+
+ .EntryForm4{
+    margin-left: 2.5rem;
+    width: 36rem;
+ }
+
+ #svng{
+    background-color: #0e9020;
+    border-radius: 4px;
+    margin-left: 10px;
+ }
+
+ #srE{
+    margin-left: 28.5rem;
+    font-size: 25px;
+ }
+
+ #shE{
+    width: 28rem;
+    height: 45px;
+    float: initial;
+    margin-left: 6px;
+ }
+ 
+ #er{
+    font-size: 23px;
+ } 
+
+ #en1{
+    height: 1.2rem;
+ }
+
+ #en1>input{
+    width: 25rem;
+    height: 16.4rem;
+ }
+
+ #srch{
+    width: 27rem;
+    margin-right: 1rem;
+    height: 46px;
+ }
+
+ #del{
+    background-color: #e00101;
+ }
+
+ #up{
+   background-color: #0a76bc;
+ }
+
+ #arc{
+   background-color: #9c27b0;
+ }
+ .employees{
+      margin-top: 3rem;
+      margin-left: 20rem;
+ }
+ 
+#jb{
+   font-size: 20px;
+   /* font-weight:bold; */
+   /* text-decoration: none; */
+}
+
+#catinE{
+   margin-left: 13.6rem;
+ }
